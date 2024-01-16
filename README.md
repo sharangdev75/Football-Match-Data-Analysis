@@ -1,7 +1,7 @@
 # Football-Match-Data-Analysis
 
 
-![Project Logo](https://i.pinimg.com/736x/b9/8a/ec/b98aecd652d202842fb3e5e48d4eecd1.jpg)
+![Project Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/1200px-FIFA_logo_without_slogan.svg.png)
 
 This project focuses on analyzing a comprehensive dataset containing results from international men's soccer matches dating back to 1872. The dataset exclusively includes matches involving national teams affiliated with continental confederations
 
